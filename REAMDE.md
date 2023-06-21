@@ -1,1 +1,0 @@
-Temos dois tipos de cadastros de produto, um em JavaScript e outro em Java
