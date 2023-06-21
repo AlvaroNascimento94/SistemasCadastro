@@ -1,0 +1,40 @@
+#cadastro {
+    cursor: pointer;
+}
+
+#corpo {
+    background-color: rgb(224, 223, 222);
+    border: 3px solid rgb(74, 66, 235);
+    width: 700px;
+    height: 330px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+fieldset{
+    width: 500px;
+}
+ul {
+    padding: 0px;
+}
+
+a { 
+    padding-right: 20px;
+}
+
+#dados {
+    position: relative;
+    margin-right: 25px;
+}
+
+input {
+    margin-top: 1px;
+    margin-left: 10px;
+}
+
+#cadastro:hover{
+    background-color:  rgb(32, 110, 228) ;
+    color: aliceblue;
+}

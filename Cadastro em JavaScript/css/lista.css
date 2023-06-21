@@ -1,0 +1,42 @@
+fieldset{
+    width: 500px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+ul {
+    padding: 0px;
+}
+a {
+    padding-right: 20px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td{
+    border: 1px solid rgba(136, 131, 131, 0.199); 
+}
+th{
+    background-color: rgb(168, 167, 166);
+   /* permite q meu cabeçalho fique no topo */
+    position: sticky;
+    top: 0px;
+    border: 2px solid  rgb(168, 167, 166);
+}
+
+th, td{
+    text-align: center;
+    width: 150px;
+}
+
+input{
+    cursor: pointer;
+}
+.responsive-table{
+    max-height: 31%;
+    overflow-y: auto;
+}
